@@ -1,9 +1,9 @@
 .card{
-    height: 250px;
-    width: 250px;
+    height: max-content;
+    width: 90%;
     border: 1px solid rgba(47, 47, 47, 0.721);
-    text-align: center;
-    background-color: rgb(224, 19, 19);
-    color: white;
+    padding-left: 50px !important;
+    padding: 30px;
     border-radius: 10px;
+
 }

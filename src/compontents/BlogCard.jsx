@@ -5,8 +5,8 @@ function blogCard(props) {
   return (
     <>
     <div className='card'>
-        <h3>Name: {props.user.name}</h3>
-        <p>Username: {props.user.username}</p>
+        <h1>Name: {props.user.name}</h1>
+        <h2>Username: {props.user.username}</h2>
         <p>Email: {props.user.email}</p>
         <p>City: {props.user.address.city}</p>
     </div>

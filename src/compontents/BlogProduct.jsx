@@ -25,7 +25,7 @@ function BlogProduct() {
     return(
     <>
         <div style={{padding: 20 , margin: 0}}>
-            <input style={{padding:20, marginBottom:20 , fontWeight:'bold' ,width: '90%',boxSizing: 'border-box'}}
+            <input style={{padding:20, marginBottom:20 , fontWeight:'bold' ,width: '95%',boxSizing: 'border-box'}}
             type="text"
             name='search'
             value={searchTerm}
